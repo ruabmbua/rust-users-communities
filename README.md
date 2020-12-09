@@ -8,6 +8,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 - [Countries](#countries)
   - [Argentina](#argentina)
   - [Australia](#australia)
+  - [Austria](#austria)
   - [Brazil](#brazil)
   - [Canada](#canada)
   - [China](#china)
@@ -24,6 +25,8 @@ Your contributions are always welcome! Please take a look at the [contribution g
 ### Argentina
 * [Telegram](https://t.me/rust_lang_ar) - Telegram users group
 ### Australia
+### Austria
+* [rust-linz](https://rust-linz.at/) - Meetups in Linz, Austria
 ### Brazil
 * [Telegram](https://t.me/rustlangbr) - Telegram users group
 ### Canada
